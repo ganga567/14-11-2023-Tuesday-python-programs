@@ -1,3 +1,4 @@
+#write a python program on different datatypes of numbers
 num1 = 5
 print(num1, 'is of type', type(num1))
 
